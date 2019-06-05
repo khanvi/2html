@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	font-weight: 600;
+	font-family: Arial;
+}
+.flex {
+	display: flex;
+	width: 90%;
+	margin: auto
+}
+
+.flex div {
+	width: 20%;
+	text-align: center
+}
+
+img {
+	width: 70%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.r {
+	color: red;
+}
